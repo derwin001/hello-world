@@ -2,3 +2,4 @@ test 1
 test 2
 test 3
 This line was added in testbranch2
+this line was added in master after merging
